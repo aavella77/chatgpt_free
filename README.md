@@ -13,3 +13,8 @@
 * Add value "key obtained in step 3"
 
 ![](secret_api_key.png)
+
+# Open the Notebook in Google Colab
+Open this notebook in Google Colab by clicking the button below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aavella77/chatgpt_free/blob/main/chatGpt_for_free.ipynb)

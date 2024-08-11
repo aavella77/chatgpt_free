@@ -12,6 +12,8 @@
 * Add name "API_KEY"
 * Add value "key obtained in step 3"
 
+**Note**: If you Discord account is new, you may need to wait for some time before you can get the key.
+
 ![](secret_api_key.png)
 
 # Open the Notebook in Google Colab

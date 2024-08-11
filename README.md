@@ -22,3 +22,23 @@ Open this notebook in Google Colab by clicking the button below:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aavella77/chatgpt_free/blob/main/chatGpt_for_free.ipynb)
 
 Note: if you get an error about invalid API key, got the the Discord [Bot](https://discord.com/channels/1055397662976905229/1064807234825113621) and execute the command /resetip
+
+#artificialintelligence
+#ai
+#machinelearning
+#deeplearning
+#openai
+#gpt3
+#research
+#chatgpt
+#generativeai
+#chatbots
+#courses
+#deeplearningai
+#microsoft
+#copilot
+#github
+#google
+#deepmind
+#CZI
+#colab
